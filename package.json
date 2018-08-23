@@ -1,0 +1,25 @@
+{
+  "name": "firebase-functions-with-puppeteer",
+  "version": "1.0.0",
+  "description": "Firebase functions with Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigomata/firebase-functions-with-puppeteer.git"
+  },
+  "keywords": [
+    "firebase",
+    "functions",
+    "puppeteer"
+  ],
+  "author": "Rodrigo Mata",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodrigomata/firebase-functions-with-puppeteer/issues"
+  },
+  "homepage": "https://github.com/rodrigomata/firebase-functions-with-puppeteer#readme",
+  "dependencies": {}
+}
