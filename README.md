@@ -1,2 +1,2 @@
-# firebase-functions-with-puppeteer
-Firebase functions with Puppeteer
+# Firebase Functions with Puppeteer
+Firebase functions with Node v8 and Puppeteer to take screenshots of webpages
